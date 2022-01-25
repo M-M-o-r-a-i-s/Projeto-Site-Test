@@ -1,0 +1,16 @@
+*{
+    front-family: Arial, Helvetica, sans-serif;
+    front-size: 16px;
+}
+
+body{
+    background-color: hsl(240, 96%, 28%);
+}
+
+main{
+    background-color: brown;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgb(189, 3, 3);
+}
