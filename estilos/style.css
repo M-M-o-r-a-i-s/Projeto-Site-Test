@@ -4,13 +4,13 @@
 }
 
 body{
-    background-color: hsl(240, 96%, 28%);
+    background-color: hsl(115, 99%, 35%);
 }
 
 main{
-    background-color: brown;
+    background-color: rgb(42, 165, 58);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(189, 3, 3);
+    box-shadow: 3px 3px 5px rgb(0, 119, 6);
 }
